@@ -1,9 +1,14 @@
 # PSA Arbitrage Agent
 
-An AI-powered trading card arbitrage platform.
+An AI-powered cross-market arbitrage intelligence platform
+designed to identify pricing inefficiencies between
+US and Australian trading card markets.
 
-The goal is to identify profitable PSA slab opportunities
-between the US and Australian markets.
+The platform combines market data,
+profitability analysis,
+automation workflows,
+and AI-generated insights
+to support trading decisions.
 
 ## Features
 
